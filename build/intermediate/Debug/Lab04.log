@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(318): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(420): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(421): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(422): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(434): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(462): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(467): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(468): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(477): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lab04.vcxproj -> C:\Users\sgal\Documents\5th Year\CS7GV5 - Real-Time Animation\Assignments\Assignment 3\Lab 04 - Sample Object Hierarchy\\build\executables\Debug\Lab 04.exe

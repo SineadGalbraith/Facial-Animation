@@ -1,0 +1,19 @@
+﻿  Loader.cpp
+  main.cpp
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\main.cpp(392): warning C4101: 'dt': unreferenced local variable
+  maths_funcs.cpp
+  MeshLoader.cpp
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv5 - real-time animation\assignments\assignment 3\lab 04 - sample object hierarchy\lab04\meshloader.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 558 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab04.vcxproj -> C:\Users\sgal\Documents\5th Year\CS7GV5 - Real-Time Animation\Assignments\Assignment 3\Lab 04 - Sample Object Hierarchy\\build\executables\Release\Lab 04.exe
